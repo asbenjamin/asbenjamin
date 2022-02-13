@@ -11,6 +11,6 @@
 - Postgres/MySQL
 
 
-- 👯 I’m looking to collaborate on projects/ideas
+👯 I’m looking to collaborate on projects/ideas
 
-- ⚡ Fun fact: I love to play the drums & the bass. The latter I cannot
+⚡ Fun fact: I love to play the drums & the bass. The latter I cannot
