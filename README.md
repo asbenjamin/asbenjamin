@@ -8,7 +8,7 @@
 
 💬 Technologies:
 - Django/Flask
-- Postgres/MySQL
+- PostgreSQL/MySQL
 
 
 👯 I’m looking to collaborate on projects/ideas
