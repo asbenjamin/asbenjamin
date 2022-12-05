@@ -12,7 +12,7 @@
 
 [![Shammah's GitHub stats](https://github-readme-stats.vercel.app/api?username=asbenjamin&count_private=true)](https://github.com/asbenjamin/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asbenjamin&layout=compact)](https://github.com/asbenjamin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asbenjamin&layout=compact&show_icons=true&theme=nord)](https://github.com/asbenjamin)
 
 👯 I’m looking to collaborate on projects/ideas
 
