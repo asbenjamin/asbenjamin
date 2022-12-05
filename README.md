@@ -8,6 +8,7 @@
 - Django/Flask
 - PostgreSQL/MySQL
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=asbenjamin&theme=nord&hide_border=true)](https://git.io/streak-stats)
 
 👯 I’m looking to collaborate on projects/ideas
 
